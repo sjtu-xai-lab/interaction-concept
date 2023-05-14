@@ -1,4 +1,7 @@
 # Does a Neural Network Really Encode Symbolic Concepts?
+
+<img src="https://shields.io/badge/STILL-work--in--progress-red?style=for-the-badge"></img>
+
 PyTorch implementation of the paper "Does a Neural Network Really Encode Symbolic Concepts?" [arxiv](https://arxiv.org/abs/2302.13080) , a related [technical report](https://arxiv.org/abs/2304.13312)
 
 `TODO: placeholder for the poster`
