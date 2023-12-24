@@ -57,8 +57,6 @@ with torch.no_grad():
     sparsifier.save(save_folder=osp.join(save_folder, "interactions"))
 ~~~
 
-*(Under construction, stay tuned ...)*
-
 ## Citation
 
 ~~~late
