@@ -689,3 +689,5 @@ def _ax_plot_pattern_activation_grid(ax, attribute_names, pattern_masks, sign_in
             ax.add_patch(rect)
 
     return ax
+
+
